@@ -28,6 +28,7 @@ $$E=mc^2$$
 
 ### 3. 高亮一段代码[^code]
 
+
 ```python
 @requires_authorization
 class SomeClass:
